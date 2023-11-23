@@ -1,7 +1,7 @@
 # Tugas Praktikum Pertemuan 10
 
-Nama : Maulana Zhahran
+Nama : Mahendra Rizqi Abhinawa
 
-NIM  : H1D021070
+NIM  : H1D021093
 
-Shift : E
+Shift : A
